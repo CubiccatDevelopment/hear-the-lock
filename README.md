@@ -1,2 +1,2 @@
-# SafeOpener
-(2017) Arcade game about safe openings.
+# (2017) SafeOpener
+Arcade game about safe openings.
