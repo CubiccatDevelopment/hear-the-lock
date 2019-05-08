@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 146d6237b8323e34a9a9b0c3a5493c64
+timeCreated: 1507196867
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Segment7
+  fontNames:
+  - Segment7
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
